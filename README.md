@@ -22,7 +22,7 @@
   </div>
   
   
-### 💻 Технологии, которым я владею:
+###  Связь со мной: 
 
-Связь со мной: 
+
 [![Telegram Badge](https://img.shields.io/badge/-alex_de_suzo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alex_de_suzo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleksei.usoff@gmail.com)
