@@ -31,5 +31,5 @@
 
 
 ### 🏆 Мои достижения:
-[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api?username=AlekseiUsov&show_icons=true&theme=dark" />][github]
-[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
+[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api?username=AlekseiUsov&show_icons=true&theme=dark" />]
+[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiUsov&hide_progress=true&theme=dark" />]
