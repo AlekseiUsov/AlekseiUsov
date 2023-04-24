@@ -28,5 +28,8 @@
 ### 🏆 Мои достижения:
 
 [![Website](https://www.codewars.com/users/alex_de_suzo/badges/large)](https://www.codewars.com/users/alex_de_suzo/)
+
+
+### 🏆 Мои достижения:
 [<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api?username=AlekseiUsov&show_icons=true&theme=dark" />][github]
 
