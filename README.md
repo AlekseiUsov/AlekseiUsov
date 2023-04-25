@@ -30,6 +30,6 @@
 [![Website](https://www.codewars.com/users/alex_de_suzo/badges/large)](https://www.codewars.com/users/alex_de_suzo/)
 
 
-### 🏆 Статистика:
+### 📈 Статистика:
 <img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api?username=AlekseiUsov&show_icons=true&theme=dark" />
 <img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiUsov&hide_progress=true&theme=dark" />
