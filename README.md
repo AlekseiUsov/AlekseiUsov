@@ -1,8 +1,7 @@
 # Hello everyone, my name is Aleksey 🖐️
 
 ### 👨‍💻 About me:
-I'm a frontend react developer
-I'm looking for a job
+I'm a frontend react developer with 3+ years experience
 
 ### 💻 Hard skills:
 <div>
